@@ -1,0 +1,138 @@
+control_001ab:1
+control_002ab:1
+control_003ab:1
+control_004ab:1
+control_005ab:1
+control_006ab:1
+control_007ab:1
+control_008ab:1
+control_010:1
+control_011:1
+control_012:1
+control_014:1
+control_015:1
+control_016:1
+control_017:1
+control_018:1
+control_019:1
+control_020:1
+control_021:1
+control_022:1
+control_023:1
+control_024:1
+control_028:1
+control_032:0                   1-Exception
+control_033:0                   1-Exception
+control_035ab:0                 2-Exception
+control_036ab:1
+control_037abc:1                
+control_039ab:1
+control_042:0                   1-Exception    
+control_043:0                   1-Exception 
+control_048c:1
+control_050ab:1
+control_050cd:1
+control_050ef:1
+control_050g:1
+control_050h:1
+control_050i:1
+control_050j:1
+control_050k:1
+control_056b:1              
+control_056c:1              
+control_056d:1
+control_062b:1             
+control_064:1
+control_069:1
+control_072:0               Asking HW
+control_073:0               Asking HW
+control_074:0               Asking HW
+control_075:1               Asking HW
+control_076:1               Asking HW
+control_077ab:1
+control_078abcd:1
+control_079abcd:1
+control_080abcd:1
+control_081abcd:1
+control_082abcd:1
+control_083ab:1
+control_084ab:1
+control_085abcd:1
+control_086ab:1
+control_087abcd:1
+control_088abcd:1
+control_089:1
+control_090:1               Ensure TCP Wrappers is installed   
+control_093abcd:1           Uncommon Network Protocols
+control_094:0               1-Exception 
+control_095abc:0            3-Exception  
+control_100:1
+control_101abc:1
+control_102:1
+control_103:1
+control_104:1
+control_105abcdefghij:1
+control_106abcdefghij:1
+control_107abcdefghijkl:1
+control_108abcdefgh:1
+control_109abcdef:1
+control_110abcdef:1
+control_111abcdefghij:1
+control_112abcdefgh:1
+control_113:1
+control_114abcd:1
+control_115abcd:1
+control_116abcd:1
+control_117ab:1
+control_118abcdefgh:1
+control_120abc:1
+control_121abcdefghijklmno:1
+control_122a:1
+control_123a:1
+control_124ab:1
+control_126:1
+control_128:1
+control_129:1
+control_130:1
+control_131:1
+control_132:1
+control_133:1
+control_134:1
+control_135abcd:1
+control_136:1
+control_137:1
+control_138:1
+control_139:1
+control_140:1               Ensure SSH MaxAuthTries is set to 3 or lesss
+control_141:1               Ensure SSH IgnoreRhosts is enabled
+control_142:1               Ensure SSH HostbasedAuthentication is disabled               
+control_143:0               1-Exception   
+control_144:1
+control_145:1               Ensure SSH PermitUserEnvironment is disabled               
+control_146:1
+control_147ab:1
+control_150:1
+control_151:1
+control_152abcd:1
+control_153:1
+control_154:1
+control_155ab:1
+control_156:1
+control_157:1
+control_158:0               1-Exception  
+control_159:0               1-Exception   
+control_160:0               Consider Exception: Ensure password expiration warning days is 7 or more
+control_161:0               1-Exception  
+control_163:1 
+control_165ab:1
+control_166ab:1
+control_167:0               1-Exception 
+control_168ab:1
+control_170a:1
+control_171ab:1
+control_172a:1
+control_173a:1
+control_174:1
+control_175a:1
+control_175b:1
+control_119:1               ### disable for temporary related to audit system, if audit system all passed, will enable it and apply on server
